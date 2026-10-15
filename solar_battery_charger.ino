@@ -1,7 +1,6 @@
 
-#include <Servo.h>  // Library to control the servo motor
+#include <Servo.h>  
 
-// Create a servo motor object
 Servo sg90;
 
 // Define the analog pins connected to the two LDR sensors
